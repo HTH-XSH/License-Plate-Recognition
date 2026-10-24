@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HWindowTool/HWindow_Tool.csproj" Id="9baa53fd-89b5-43e2-ac59-a27b006debb6" />
+  <Project Path="PlateRecognitionApp/PlateRecognitionApp.csproj" Id="933dedef-2fb4-4f67-ac6a-49ec001ecfd7" />
+</Solution>
